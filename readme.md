@@ -19,3 +19,9 @@ Flag [-s] for short description, results includes:
 
 ** Show history of commits
 'git log'
+
+** Create branch
+'git branch {branch_name}'
+
+** Move to branch
+'git checkout {branch_name}'
